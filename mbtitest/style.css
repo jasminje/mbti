@@ -20,6 +20,9 @@ article {
 
 .result {
     display: none;
+    font-family: 'montserrat';
+    font-size: 20px;
+
 }
 
 #img {
